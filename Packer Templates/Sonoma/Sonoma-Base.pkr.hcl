@@ -21,7 +21,7 @@ variable "jamf_url" {
 
 variable "jamf_invitation_id" {
   type        = string
-  default     = "261682284784853273158122423448576770160"
+  default     = "338556843507196886881394851618001522668"
   description = "Invitation ID"
 }
 
